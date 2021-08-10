@@ -1,0 +1,6 @@
+<template>
+  <div>
+    <h2>Contact</h2>
+    <router-view />
+  </div>
+</template>
